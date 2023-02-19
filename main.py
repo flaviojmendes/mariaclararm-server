@@ -1,5 +1,7 @@
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 from message_model import MessageModel
 from message_service import create_message, load_messages
 
@@ -34,7 +36,24 @@ async def req_confirmation(family: FamilyModel):
 async def save_message(message: MessageModel):
     create_message(message)
 
+
 @app.get("/messages")
 async def get_messages():
     return load_messages()
 
+
+if __name__ == '__main__':
+    if (os.environ["ENV"] == 'prod'):
+        uvicorn.run("main:app",
+                    host="0.0.0.0",
+                    port=8000,
+                    reload=True,
+                    ssl_keyfile="privkey.pem",
+                    ssl_certfile="cert.pem"
+                    )
+    else:
+        uvicorn.run("main:app",
+                    host="0.0.0.0",
+                    port=8000,
+                    reload=True
+                    )
