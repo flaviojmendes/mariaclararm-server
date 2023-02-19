@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
@@ -9,6 +10,7 @@ from model import FamilyModel
 from service import confirm_family, get_list
 
 app = FastAPI()
+load_dotenv() 
 
 origins = ["*"]
 
