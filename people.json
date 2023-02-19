@@ -1,0 +1,896 @@
+﻿[
+    {
+        "name": "Lúcia",
+        "people": [
+            {
+                "name": "Lúcia"
+            },
+            {
+                "name": "Maria Clara"
+            }
+        ]
+    },
+    {
+        "name": "Francisco",
+        "people": [
+            {
+                "name": "Francisco"
+            },
+            {
+                "name": "Mikael"
+            }
+        ]
+    },
+    {
+        "name": "Paula Stefany",
+        "people": [
+            {
+                "name": "Paula Stefany"
+            },
+            {
+                "name": "Gabriel"
+            },
+            {
+                "name": "Isadora"
+            },
+            {
+                "name": "Martin"
+            },
+            {
+                "name": "Ceci"
+            }
+        ]
+    },
+    {
+        "name": "Nilda",
+        "people": [
+            {
+                "name": "Nilda"
+            }
+        ]
+    },
+    {
+        "name": "Clarissa Rocha dos Santos",
+        "people": [
+            {
+                "name": "Clarissa Rocha dos Santos"
+            },
+            {
+                "name": "Maria Luiza"
+            }
+        ]
+    },
+    {
+        "name": "Kamila Rocha",
+        "people": [
+            {
+                "name": "Kamila Rocha"
+            },
+            {
+                "name": "Flávio Mendes"
+            },
+            {
+                "name": "José Rocha Mendes"
+            }
+        ]
+    },
+    {
+        "name": "Vó Maria",
+        "people": [
+            {
+                "name": "Vó Maria"
+            },
+            {
+                "name": "Vô Rocha"
+            }
+        ]
+    },
+    {
+        "name": "Carlos Rocha",
+        "people": [
+            {
+                "name": "Carlos Rocha"
+            },
+            {
+                "name": "Grace"
+            },
+            {
+                "name": "Táyna"
+            },
+            {
+                "name": "Leonardo"
+            },
+            {
+                "name": "Felipe"
+            },
+            {
+                "name": "Talyson"
+            }
+        ]
+    },
+    {
+        "name": "Aldenora Rocha",
+        "people": [
+            {
+                "name": "Aldenora Rocha"
+            },
+            {
+                "name": "Igor"
+            },
+            {
+                "name": "Isabela"
+            }
+        ]
+    },
+    {
+        "name": "Amanda Rocha",
+        "people": [
+            {
+                "name": "Amanda Rocha"
+            },
+            {
+                "name": "André"
+            }
+        ]
+    },
+    {
+        "name": "Tânia Rocha",
+        "people": [
+            {
+                "name": "Tânia Rocha"
+            },
+            {
+                "name": "Matheus"
+            },
+            {
+                "name": "Manuela"
+            },
+            {
+                "name": "Maria Laura"
+            },
+            {
+                "name": "Davi"
+            },
+            {
+                "name": "Lucas"
+            },
+            {
+                "name": "Bruna"
+            }
+        ]
+    },
+    {
+        "name": "Laura",
+        "people": [
+            {
+                "name": "Laura"
+            },
+            {
+                "name": "Ana Mara"
+            }
+        ]
+    },
+    {
+        "name": "Tia Maura",
+        "people": [
+            {
+                "name": "Tia Maura"
+            },
+            {
+                "name": "Tio Joed"
+            }
+        ]
+    },
+    {
+        "name": "Débora Castro",
+        "people": [
+            {
+                "name": "Débora Castro"
+            },
+            {
+                "name": "Rildo"
+            },
+            {
+                "name": "Maria Eduarda"
+            },
+            {
+                "name": "Eloá"
+            }
+        ]
+    },
+    {
+        "name": "Joãozinho",
+        "people": [
+            {
+                "name": "Joãozinho"
+            }
+        ]
+    },
+    {
+        "name": "Vô Zinho Gomes de Mello",
+        "people": [
+            {
+                "name": "Vô Zinho Gomes de Mello"
+            },
+            {
+                "name": "Gerusa"
+            },
+            {
+                "name": "LucasLeticia"
+            }
+        ]
+    },
+    {
+        "name": "Aldenora Borges",
+        "people": [
+            {
+                "name": "Aldenora Borges"
+            },
+            {
+                "name": "Siviano"
+            }
+        ]
+    },
+    {
+        "name": "Mariane Borges",
+        "people": [
+            {
+                "name": "Mariane Borges"
+            },
+            {
+                "name": "Rildo"
+            },
+            {
+                "name": "Abraão"
+            },
+            {
+                "name": "Ábia"
+            }
+        ]
+    },
+    {
+        "name": "Rafael Borges",
+        "people": [
+            {
+                "name": "Rafael Borges"
+            },
+            {
+                "name": "Cremilda"
+            },
+            {
+                "name": "Priscila"
+            },
+            {
+                "name": "Isaías"
+            }
+        ]
+    },
+    {
+        "name": "Fia",
+        "people": [
+            {
+                "name": "Fia"
+            },
+            {
+                "name": "Edson"
+            },
+            {
+                "name": "Marcela"
+            },
+            {
+                "name": "Carol"
+            },
+            {
+                "name": "Carol Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Rafaela Borges",
+        "people": [
+            {
+                "name": "Rafaela Borges"
+            },
+            {
+                "name": "Igor"
+            },
+            {
+                "name": "Filha"
+            },
+            {
+                "name": "Filho"
+            }
+        ]
+    },
+    {
+        "name": "Alex Borges de Mello",
+        "people": [
+            {
+                "name": "Alex Borges de Mello"
+            },
+            {
+                "name": "Lu"
+            },
+            {
+                "name": "Giovana"
+            },
+            {
+                "name": "Wesley"
+            }
+        ]
+    },
+    {
+        "name": "Aninha",
+        "people": [
+            {
+                "name": "Aninha"
+            },
+            {
+                "name": "Diego"
+            }
+        ]
+    },
+    {
+        "name": "Luís Mello",
+        "people": [
+            {
+                "name": "Luís Mello"
+            }
+        ]
+    },
+    {
+        "name": "Kiko",
+        "people": [
+            {
+                "name": "Kiko"
+            }
+        ]
+    },
+    {
+        "name": "Késsia",
+        "people": [
+            {
+                "name": "Késsia"
+            },
+            {
+                "name": "Kleiton"
+            },
+            {
+                "name": "Gabriel"
+            },
+            {
+                "name": "Guilherme"
+            }
+        ]
+    },
+    {
+        "name": "Carola Borges",
+        "people": [
+            {
+                "name": "Carola Borges"
+            },
+            {
+                "name": "Kleber"
+            }
+        ]
+    },
+    {
+        "name": "Rosilane Borges",
+        "people": [
+            {
+                "name": "Rosilane Borges"
+            },
+            {
+                "name": "Liberato"
+            }
+        ]
+    },
+    {
+        "name": "Artur Mello",
+        "people": [
+            {
+                "name": "Artur Mello"
+            },
+            {
+                "name": "Caroline"
+            }
+        ]
+    },
+    {
+        "name": "Jorge Mello",
+        "people": [
+            {
+                "name": "Jorge Mello"
+            },
+            {
+                "name": "Neide"
+            }
+        ]
+    },
+    {
+        "name": "Diogo Mello",
+        "people": [
+            {
+                "name": "Diogo Mello"
+            },
+            {
+                "name": "Esposa"
+            },
+            {
+                "name": "Filho"
+            }
+        ]
+    },
+    {
+        "name": "Aparecida Mello",
+        "people": [
+            {
+                "name": "Aparecida Mello"
+            },
+            {
+                "name": "Aparecida Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Ane Mendes",
+        "people": [
+            {
+                "name": "Ane Mendes"
+            },
+            {
+                "name": "Francisco Mendes"
+            }
+        ]
+    },
+    {
+        "name": "André Mendes",
+        "people": [
+            {
+                "name": "André Mendes"
+            },
+            {
+                "name": "Priscila"
+            }
+        ]
+    },
+    {
+        "name": "Suzana de Mello",
+        "people": [
+            {
+                "name": "Suzana de Mello"
+            },
+            {
+                "name": "Mãe Bia"
+            },
+            {
+                "name": "Padrasto"
+            }
+        ]
+    },
+    {
+        "name": "Walkiria Nogueira",
+        "people": [
+            {
+                "name": "Walkiria Nogueira"
+            },
+            {
+                "name": "Ingrid"
+            },
+            {
+                "name": "Ingrid Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Martinha",
+        "people": [
+            {
+                "name": "Martinha"
+            },
+            {
+                "name": "Martinha Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Romoaldo Santos",
+        "people": [
+            {
+                "name": "Romoaldo Santos"
+            },
+            {
+                "name": "Ana Amélia"
+            }
+        ]
+    },
+    {
+        "name": "Lucas Brayan",
+        "people": [
+            {
+                "name": "Lucas Brayan"
+            },
+            {
+                "name": "Thaís"
+            }
+        ]
+    },
+    {
+        "name": "Rita",
+        "people": [
+            {
+                "name": "Rita"
+            },
+            {
+                "name": "Emílio"
+            },
+            {
+                "name": "Kauanna"
+            },
+            {
+                "name": "Kalarran"
+            }
+        ]
+    },
+    {
+        "name": "Maria Eduarda ",
+        "people": [
+            {
+                "name": "Maria Eduarda "
+            },
+            {
+                "name": "Isabela Serra"
+            },
+            {
+                "name": "João Aureliano"
+            },
+            {
+                "name": "Matheus"
+            }
+        ]
+    },
+    {
+        "name": "Fatinha",
+        "people": [
+            {
+                "name": "Fatinha"
+            },
+            {
+                "name": "Diane"
+            }
+        ]
+    },
+    {
+        "name": "Rosa",
+        "people": [
+            {
+                "name": "Rosa"
+            },
+            {
+                "name": "Rosa Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Síliva Romão",
+        "people": [
+            {
+                "name": "Síliva Romão"
+            },
+            {
+                "name": "Éliton Romão"
+            }
+        ]
+    },
+    {
+        "name": "Sandrianne",
+        "people": [
+            {
+                "name": "Sandrianne"
+            },
+            {
+                "name": "Gilmar"
+            }
+        ]
+    },
+    {
+        "name": "Tia Zeca",
+        "people": [
+            {
+                "name": "Tia Zeca"
+            },
+            {
+                "name": "Lena"
+            },
+            {
+                "name": "Lena Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Pupu",
+        "people": [
+            {
+                "name": "Pupu"
+            },
+            {
+                "name": "Pupu Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Leilane",
+        "people": [
+            {
+                "name": "Leilane"
+            },
+            {
+                "name": "Leilane Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Jacirema",
+        "people": [
+            {
+                "name": "Jacirema"
+            },
+            {
+                "name": "Valdoido"
+            }
+        ]
+    },
+    {
+        "name": "Jandiacira",
+        "people": [
+            {
+                "name": "Jandiacira"
+            },
+            {
+                "name": "Jandiacira Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Jacileide",
+        "people": [
+            {
+                "name": "Jacileide"
+            },
+            {
+                "name": "Fernando"
+            }
+        ]
+    },
+    {
+        "name": "Angelucy",
+        "people": [
+            {
+                "name": "Angelucy"
+            },
+            {
+                "name": "Paulo"
+            },
+            {
+                "name": "Bernardo"
+            },
+            {
+                "name": "Bento"
+            }
+        ]
+    },
+    {
+        "name": "Cristina Moreira",
+        "people": [
+            {
+                "name": "Cristina Moreira"
+            },
+            {
+                "name": "Cristina Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Dra Glaucia",
+        "people": [
+            {
+                "name": "Dra Glaucia"
+            },
+            {
+                "name": "Dra Glaucia Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Camila Mendes",
+        "people": [
+            {
+                "name": "Camila Mendes"
+            },
+            {
+                "name": "Elio"
+            }
+        ]
+    },
+    {
+        "name": "Isabela",
+        "people": [
+            {
+                "name": "Isabela"
+            },
+            {
+                "name": "Isabela Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Júlia",
+        "people": [
+            {
+                "name": "Júlia"
+            },
+            {
+                "name": "Júlia Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Maria Clara",
+        "people": [
+            {
+                "name": "Maria Clara"
+            },
+            {
+                "name": "Maria Clara Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Sofia",
+        "people": [
+            {
+                "name": "Sofia"
+            },
+            {
+                "name": "Sofia Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Luíza",
+        "people": [
+            {
+                "name": "Luíza"
+            },
+            {
+                "name": "Luíza Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Waltair Nogueira",
+        "people": [
+            {
+                "name": "Waltair Nogueira"
+            },
+            {
+                "name": "Waltair Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Ludmila",
+        "people": [
+            {
+                "name": "Ludmila"
+            },
+            {
+                "name": "Ludmila Mãe"
+            }
+        ]
+    },
+    {
+        "name": "Clara",
+        "people": [
+            {
+                "name": "Clara"
+            },
+            {
+                "name": "Camila"
+            },
+            {
+                "name": "Ricardo"
+            }
+        ]
+    },
+    {
+        "name": "Angela Falcão",
+        "people": [
+            {
+                "name": "Angela Falcão"
+            },
+            {
+                "name": "Angela Acompanhante"
+            }
+        ]
+    },
+    {
+        "name": "Raquel",
+        "people": [
+            {
+                "name": "Raquel"
+            }
+        ]
+    },
+    {
+        "name": "Iasmin",
+        "people": [
+            {
+                "name": "Iasmin"
+            },
+            {
+                "name": "Filha"
+            },
+            {
+                "name": "Filha"
+            }
+        ]
+    },
+    {
+        "name": "Etienne",
+        "people": [
+            {
+                "name": "Etienne"
+            },
+            {
+                "name": "Esposa"
+            }
+        ]
+    },
+    {
+        "name": "Tete",
+        "people": [
+            {
+                "name": "Tete"
+            },
+            {
+                "name": "Marido"
+            }
+        ]
+    },
+    {
+        "name": "Gabriela Araújo",
+        "people": [
+            {
+                "name": "Gabriela Araújo"
+            }
+        ]
+    },
+    {
+        "name": "Evellyn Sathler",
+        "people": [
+            {
+                "name": "Evellyn Sathler"
+            }
+        ]
+    },
+    {
+        "name": "Felipe (Coreógrafo)",
+        "people": [
+            {
+                "name": "Felipe (Coreógrafo)"
+            }
+        ]
+    },
+    {
+        "name": "Georgia",
+        "people": [
+            {
+                "name": "Georgia"
+            },
+            {
+                "name": "Georgia Acompanhante"
+            }
+        ]
+    }
+]
