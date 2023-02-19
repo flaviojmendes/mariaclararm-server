@@ -50,8 +50,8 @@ if __name__ == '__main__':
                     host="0.0.0.0",
                     port=8000,
                     reload=True,
-                    ssl_keyfile="fullchain.pem",
-                    ssl_certfile="cert.pem"
+                    ssl_keyfile="privkey.pem",
+                    ssl_certfile="fullchain.pem"
                     )
     else:
         uvicorn.run("main:app",
